@@ -77,11 +77,11 @@ monitor:</br>
 ![ss](assets/monitor/1kanisius.jpg)</br>
 
 Hasil IOPS:</br>
-![ss](assets/iops/1kanisius.png)</br>
-![ss](assets/iops/2kanisius.png)</br>
-![ss](assets/iops/3kanisius.jpg)</br>
-![ss](assets/iops/4kanisius.jpg)</br>
-![ss](assets/iops/5kanisius.jpg)</br>
+![ss](assets/iops/iops1.png)</br>
+![ss](assets/iops/iops2.png)</br>
+![ss](assets/iops/iops3.png)</br>
+![ss](assets/iops/iops4.png)</br>
+![ss](assets/iops/iops5.png)</br>
 
 Hasil FLOPS:</br>
 ![ss](assets/flops/1kanisius.jpg)</br>
