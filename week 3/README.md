@@ -84,11 +84,11 @@ Hasil IOPS:</br>
 ![ss](assets/iops/iops5.png)</br>
 
 Hasil FLOPS:</br>
-![ss](assets/flops/1kanisius.jpg)</br>
-![ss](assets/flops/2kanisius.jpg)</br>
-![ss](assets/flops/3kanisius.jpg)</br>
-![ss](assets/flops/4kanisius.jpg)</br>
-![ss](assets/flops/5kanisius.jpg)</br>
+![ss](assets/flops/flops1 .png)</br>
+![ss](assets/flops/flops2 .png)</br>
+![ss](assets/flops/flops3 .png)</br>
+![ss](assets/flops/flops4 .png)</br>
+![ss](assets/flops/flops5 .png)</br>
 
 Perbandingan Hasil</br>
 
