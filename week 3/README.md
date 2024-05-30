@@ -74,7 +74,7 @@ Hasil FLOPS:</br>
 
 Kanisius Keru Okok Dinggon(3123500028)</br>
 monitor:</br>
-![ss](assets/monitor/1kanisius.jpg)</br>
+![ss](assets/monitor/CPU.png)</br>
 
 Hasil IOPS:</br>
 ![ss](assets/iops/iops1.png)</br>
